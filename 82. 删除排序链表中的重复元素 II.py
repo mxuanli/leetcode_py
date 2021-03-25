@@ -44,6 +44,21 @@ class Solution:
                 b = b.next
         return tmp.next
 
+    def deleteDuplicates10325(self, head: ListNode) -> ListNode:
+        if head is None:
+            return head
+        tmp = ListNode(0)
+        tmp.next = head
+        head = tmp
+        while head.next and head.next.next:
+            if head.next.val == head.next.next.val:
+                val = head.next.val
+                while head.next and val == head.next.val:
+                    head.next = head.next.next
+            else:
+                head = head.next
+        return tmp.next
+
     def run(self):
         l1 = ListNode(1)
         l2 = ListNode(1)
@@ -54,7 +69,7 @@ class Solution:
         while head is not None:
             print(head.val)
             head = head.next
-        r = self.deleteDuplicates(l1)
+        r = self.deleteDuplicates10325(l1)
         head = r
         while head is not None:
             print(head.val)
