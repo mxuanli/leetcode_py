@@ -14,3 +14,15 @@ class Solution:
                 tmp = 1
             i -= 1
         return len(nums)
+
+
+
+class Solution1:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        fast, slow = 2, 2
+        for fast in range(2, len(nums)):
+            if nums[slow - 2] != nums[fast]:
+                nums[slow] = nums[fast]
+                slow += 1
+            fast += 1
+        return slow
