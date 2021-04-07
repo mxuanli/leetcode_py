@@ -16,7 +16,6 @@ class Solution:
         return len(nums)
 
 
-
 class Solution1:
     def removeDuplicates(self, nums: List[int]) -> int:
         fast, slow = 2, 2

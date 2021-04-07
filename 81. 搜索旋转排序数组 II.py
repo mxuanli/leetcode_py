@@ -33,3 +33,9 @@ class Solution:
 
 s = Solution()
 s.run()
+
+
+class Solution1:
+    # offer消失法
+    def search(self, nums: List[int], target: int) -> bool:
+        return target in nums
