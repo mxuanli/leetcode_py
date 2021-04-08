@@ -1,0 +1,14 @@
+.idea
+.git
+*idea
+sql
+__pycache__/
+apps/__pycache__/
+apps/code_table/__pycache__/
+apps/system/__pycache__/
+apps/system_conf/__pycache__/
+apps/users/__pycache__/
+utils/__pycache__/
+utils/log/__pycache__/
+.gitignore
+.pytest_cache
