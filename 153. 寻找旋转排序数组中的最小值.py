@@ -1,3 +1,6 @@
+import heapq
+
+
 class Solution:
 
     def findMin(self, nums: list) -> int:
@@ -20,3 +23,9 @@ class Solution:
 
 s = Solution()
 s.run()
+
+
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        heapq.heapify(nums)
+        return heapq.heappop(nums)
