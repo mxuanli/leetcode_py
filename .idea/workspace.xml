@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="198">
-      <change afterPath="$PROJECT_DIR$/1011. 在 D 天内送达包裹的能力.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode_py.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/938. 二叉搜索树的范围和.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/783. 二叉搜索树节点最小距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/783. 二叉搜索树节点最小距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/897. 递增顺序搜索树.py" beforeDir="false" afterPath="$PROJECT_DIR$/897. 递增顺序搜索树.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,24 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27. 移除元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/28. 实现strStr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/91. 解码方法.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1011. 在 D 天内送达包裹的能力.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/938. 二叉搜索树的范围和.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -168,11 +164,12 @@
         <option value="$PROJECT_DIR$/783. 二叉搜索树节点最小距离.py" />
         <option value="$PROJECT_DIR$/897. 递增顺序搜索树.py" />
         <option value="$PROJECT_DIR$/1011. 在 D 天内送达包裹的能力.py" />
+        <option value="$PROJECT_DIR$/938. 二叉搜索树的范围和.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
+    <option name="x" value="25" />
     <option name="y" value="23" />
     <option name="width" value="2449" />
     <option name="height" value="1337" />
@@ -356,7 +353,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616573887340</updated>
       <workItem from="1616573895231" duration="83272000" />
-      <workItem from="1619402375651" duration="540000" />
+      <workItem from="1619402375651" duration="5554000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -505,14 +502,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619341599526</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="1011">
+      <created>1619403850254</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1619403850254</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83812000" />
+    <option name="totallyTimeSpent" value="88826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="23" width="2449" height="1337" extended-state="0" />
+    <frame x="25" y="23" width="2449" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25325492" />
@@ -600,7 +604,8 @@
     <MESSAGE value="363" />
     <MESSAGE value="2.7" />
     <MESSAGE value="897、5739" />
-    <option name="LAST_COMMIT_MESSAGE" value="897、5739" />
+    <MESSAGE value="1011" />
+    <option name="LAST_COMMIT_MESSAGE" value="1011" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,13 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/153. 寻找旋转排序数组中的最小值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -947,7 +945,21 @@
     <entry file="file://$PROJECT_DIR$/1011. 在 D 天内送达包裹的能力.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/938. 二叉搜索树的范围和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
