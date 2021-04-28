@@ -12,3 +12,4 @@ utils/__pycache__/
 utils/log/__pycache__/
 .gitignore
 .pytest_cache
+.idea/workspace.xml
