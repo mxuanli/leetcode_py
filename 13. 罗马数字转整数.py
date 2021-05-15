@@ -48,5 +48,30 @@ class Solution:
         print(r)
 
 
-s = Solution()
-s.run()
+class Solution10515:
+    def romanToInt(self, s: str) -> int:
+        roman_dict = {
+            "I": 1,
+            "IV": 4,
+            "V": 5,
+            "IX": 9,
+            "X": 10,
+            "XL": 40,
+            "L": 50,
+            "XC": 90,
+            "C": 100,
+            "CD": 400,
+            "D": 500,
+            "CM": 900,
+            "M": 1000
+        }
+        r = 0
+        while s:
+            if roman_dict.get(s[:2]):
+                r += roman_dict[s[:2]]
+                s = s[2:]
+            elif roman_dict.get(s[:1]):
+                r += roman_dict[s[:1]]
+                s = s[1:]
+        return r
+
