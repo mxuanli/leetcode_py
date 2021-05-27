@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1190. 反转每对括号间的子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/461. 汉明距离.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1190. 反转每对括号间的子串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="638">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/461. 汉明距离.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -97,15 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -166,6 +166,7 @@
         <option value="$PROJECT_DIR$/1035. 不相交的线.py" />
         <option value="$PROJECT_DIR$/664. 奇怪的打印机.py" />
         <option value="$PROJECT_DIR$/1190. 反转每对括号间的子串.py" />
+        <option value="$PROJECT_DIR$/461. 汉明距离.py" />
       </list>
     </option>
   </component>
@@ -307,7 +308,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616573887340</updated>
       <workItem from="1616573895231" duration="21097000" />
-      <workItem from="1621220497269" duration="24155000" />
+      <workItem from="1621220497269" duration="26076000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -435,17 +436,31 @@
       <option name="project" value="LOCAL" />
       <updated>1621846672861</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1190">
+      <created>1621993536268</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1621993536268</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1190">
+      <created>1622021349198</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622021349198</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57282000" />
+    <option name="totallyTimeSpent" value="59203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="2560" height="1338" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.30778491" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.30778491" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50075185" side_tool="true" weight="0.30778491" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -453,11 +468,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41317365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41317365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32763046" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32763046" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.4311377" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -491,7 +506,8 @@
     <MESSAGE value="1738" />
     <MESSAGE value="692、1035" />
     <MESSAGE value="664" />
-    <option name="LAST_COMMIT_MESSAGE" value="664" />
+    <MESSAGE value="1190" />
+    <option name="LAST_COMMIT_MESSAGE" value="1190" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -723,8 +739,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1190. 反转每对括号间的子串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="638">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/461. 汉明距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
