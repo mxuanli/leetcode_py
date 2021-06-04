@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/525. 连续数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/160. 相交链表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/664. 奇怪的打印机.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/224. 基本计算器.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/525. 连续数组.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/160. 相交链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -172,6 +172,7 @@
         <option value="$PROJECT_DIR$/1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？.py" />
         <option value="$PROJECT_DIR$/523. 连续的子数组和.py" />
         <option value="$PROJECT_DIR$/525. 连续数组.py" />
+        <option value="$PROJECT_DIR$/160. 相交链表.py" />
       </list>
     </option>
   </component>
@@ -360,7 +361,7 @@
       <workItem from="1616573895231" duration="21097000" />
       <workItem from="1621220497269" duration="27893000" />
       <workItem from="1622095554843" duration="8615000" />
-      <workItem from="1622508191437" duration="4873000" />
+      <workItem from="1622508191437" duration="8769000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -537,11 +538,18 @@
       <option name="project" value="LOCAL" />
       <updated>1622598782004</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="525">
+      <created>1622684670210</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1622684670210</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74508000" />
+    <option name="totallyTimeSpent" value="78404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
@@ -599,7 +607,8 @@
     <MESSAGE value="342" />
     <MESSAGE value="1744" />
     <MESSAGE value="523" />
-    <option name="LAST_COMMIT_MESSAGE" value="523" />
+    <MESSAGE value="525" />
+    <option name="LAST_COMMIT_MESSAGE" value="525" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -878,6 +887,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/160. 相交链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
