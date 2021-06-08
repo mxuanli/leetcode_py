@@ -5,6 +5,7 @@ class Solution:
         (sum − neg) − neg = sum − 2 * neg = target
         neg = sum - target // 2
         如果sum - target为奇数，则代表没有方案，返回0
+        选取若干元素等于neg，方案数和不同表达式结果为target是一样的
         """
         nums_sum = sum(nums)
         if target > nums_sum:
@@ -47,6 +48,7 @@ class Solution1:
         neg = diff // 2
         n = len(nums)
         dp = [0 for _ in range(neg + 1)]
+
         dp[0] = 1
         for i in range(1, n + 1):
             num = nums[i - 1]
