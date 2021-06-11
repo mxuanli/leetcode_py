@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/518. 零钱兑换 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/279. 完全平方数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/342. 4的幂.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/518. 零钱兑换 II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/279. 完全平方数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -177,6 +177,7 @@
         <option value="$PROJECT_DIR$/1049. 最后一块石头的重量 II.py" />
         <option value="$PROJECT_DIR$/879. 盈利计划.py" />
         <option value="$PROJECT_DIR$/518. 零钱兑换 II.py" />
+        <option value="$PROJECT_DIR$/279. 完全平方数.py" />
       </list>
     </option>
   </component>
@@ -367,7 +368,7 @@
       <workItem from="1621220497269" duration="27893000" />
       <workItem from="1622095554843" duration="8615000" />
       <workItem from="1622508191437" duration="18436000" />
-      <workItem from="1623121536982" duration="8949000" />
+      <workItem from="1623121536982" duration="16751000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -593,11 +594,18 @@
       <option name="project" value="LOCAL" />
       <updated>1623222962280</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="879">
+      <created>1623287505502</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1623287505502</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97020000" />
+    <option name="totallyTimeSpent" value="104822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="2560" height="1338" extended-state="0" />
@@ -969,8 +977,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/518. 零钱兑换 II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/279. 完全平方数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
