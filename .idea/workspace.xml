@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="" />
+    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/483. 最小好进制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/525. 连续数组.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/160. 相交链表.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,9 +83,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/877. 石子游戏.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/483. 最小好进制.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -173,11 +180,11 @@
         <option value="$PROJECT_DIR$/279. 完全平方数.py" />
         <option value="$PROJECT_DIR$/852. 山脉数组的峰顶索引.py" />
         <option value="$PROJECT_DIR$/877. 石子游戏.py" />
+        <option value="$PROJECT_DIR$/483. 最小好进制.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
     <option name="y" value="23" />
     <option name="width" value="2560" />
     <option name="height" value="1338" />
@@ -188,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,7 +207,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +370,8 @@
       <workItem from="1621220497269" duration="27893000" />
       <workItem from="1622095554843" duration="8615000" />
       <workItem from="1622508191437" duration="18436000" />
-      <workItem from="1623121536982" duration="18927000" />
+      <workItem from="1623121536982" duration="22208000" />
+      <workItem from="1624008094448" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -610,17 +618,24 @@
       <option name="project" value="LOCAL" />
       <updated>1623718738633</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="877">
+      <created>1623806898372</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1623806898372</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106998000" />
+    <option name="totallyTimeSpent" value="110289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="2560" height="1338" extended-state="0" />
+    <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.31982344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.32383627" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50075185" side_tool="true" weight="0.30778491" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -648,7 +663,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="377" />
     <MESSAGE value="690" />
     <MESSAGE value="554" />
     <MESSAGE value="740" />
@@ -673,7 +687,8 @@
     <MESSAGE value="879" />
     <MESSAGE value="279" />
     <MESSAGE value="852" />
-    <option name="LAST_COMMIT_MESSAGE" value="852" />
+    <MESSAGE value="877" />
+    <option name="LAST_COMMIT_MESSAGE" value="877" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -956,13 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/227. 基本计算器 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/494. 目标和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -1005,8 +1013,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/227. 基本计算器 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/877. 石子游戏.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/483. 最小好进制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
