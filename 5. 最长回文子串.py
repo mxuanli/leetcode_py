@@ -1,33 +1,20 @@
-class Solution(object):
-    def longestPalindrome(self, str_s):
-        """
-        :type str_s: str
-        :rtype: str
-        """
-        max_str = ""
-        len_max_str = 0
-        len_str = len(str_s)
-        for i in range(len_str):
-            left = i
-            right = i
-            if i < len_str - 1:  # 判断是否到最后一位
-                right = i + 1
-            if str_s[left] != str_s[right]:  # 相邻的两个是否一样
-                if left > 0:  # 判断是否到第一位
-                    left -= 1
-            while str_s[left] == str_s[right]:
-                str_a = str_s[left: right + 1]
-                len_str_a = len(str_a)
-                if len_str_a > len_max_str:  # 保存最大值
-                    len_max_str = len_str_a
-                    max_str = str_a
-                if left > 0:    # 相邻的两个是否一样
-                    left -= 1
-                if right < len_str - 1:    # 判断是否到最后一位
-                    right += 1
-                if left <= 0 and right >= len_str - 1:
-                    break
-        return max_str
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        n = len(s)
+        r = ""
+
+        def foo(left, right):
+            nonlocal r
+            while left >= 0 and right < n and s[left] == s[right]:
+                left -= 1
+                right += 1
+            if len(r) < len(s[left + 1: right]):
+                r = s[left + 1: right]
+
+        for i in range(n):
+            foo(i, i)  # 奇数类型
+            foo(i, i + 1)  # 偶数类型
+        return r
 
 
 str_s = "aobfboammmqf"
