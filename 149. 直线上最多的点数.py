@@ -2,6 +2,7 @@ class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
         r = 1
         n = len(points)
+        # 优化
         if n == 1 or n == 2:
             return n
         for i in range(n):
@@ -18,6 +19,6 @@ class Solution:
                     if a * d == c * b:
                         tmp += 1
                 r = max(tmp, r)
-                if r > n / 2:
+                if r > n / 2:  # 优化
                     break
         return r
