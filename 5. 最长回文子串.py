@@ -1,5 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        # 中心扩散法
         n = len(s)
         r = ""
 
