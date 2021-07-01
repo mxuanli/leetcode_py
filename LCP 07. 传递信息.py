@@ -1,5 +1,6 @@
 class Solution:
     def numWays(self, n: int, relation: List[List[int]], k: int) -> int:
+        # 广度优先搜索BFS
         relation_hash = defaultdict(list)
         for r in relation:
             relation_hash[r[0]].append(r[1])
