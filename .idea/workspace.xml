@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/815. 公交路线.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/483. 最小好进制.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/401. 二进制手表.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,10 +58,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5. 最长回文子串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="836">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LCP 07. 传递信息.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -83,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/815. 公交路线.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -134,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试题 01.02. 判定是否互为字符重排.py" />
         <option value="$PROJECT_DIR$/面试题 01.03. URL化.py" />
         <option value="$PROJECT_DIR$/面试题 01.04. 回文排列.py" />
         <option value="$PROJECT_DIR$/面试题 01.05. 一次编辑.py" />
@@ -182,9 +176,10 @@
         <option value="$PROJECT_DIR$/剑指 Offer 38. 字符串的排列.py" />
         <option value="$PROJECT_DIR$/剑指 Offer 15. 二进制中1的个数.py" />
         <option value="$PROJECT_DIR$/149. 直线上最多的点数.py" />
-        <option value="$PROJECT_DIR$/5. 最长回文子串.py" />
         <option value="$PROJECT_DIR$/752. 打开转盘锁.py" />
         <option value="$PROJECT_DIR$/815. 公交路线.py" />
+        <option value="$PROJECT_DIR$/5. 最长回文子串.py" />
+        <option value="$PROJECT_DIR$/LCP 07. 传递信息.py" />
       </list>
     </option>
   </component>
@@ -377,7 +372,7 @@
       <workItem from="1623121536982" duration="22208000" />
       <workItem from="1624008094448" duration="11588000" />
       <workItem from="1624435656357" duration="6639000" />
-      <workItem from="1624841152539" duration="555000" />
+      <workItem from="1624841152539" duration="3199000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -680,11 +675,25 @@
       <option name="project" value="LOCAL" />
       <updated>1624603995055</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="815">
+      <created>1624852695479</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1624852695479</updated>
+    </task>
+    <task id="LOCAL-00045" summary="5">
+      <created>1624852774768</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1624852774768</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129061000" />
+    <option name="totallyTimeSpent" value="131705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
@@ -758,7 +767,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1738" />
     <MESSAGE value="692、1035" />
     <MESSAGE value="664" />
     <MESSAGE value="1190" />
@@ -781,9 +789,10 @@
     <MESSAGE value="Offer38" />
     <MESSAGE value="149、Offer15" />
     <MESSAGE value="149" />
-    <MESSAGE value="5" />
     <MESSAGE value="752" />
-    <option name="LAST_COMMIT_MESSAGE" value="752" />
+    <MESSAGE value="815" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,13 +826,6 @@
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/面试题 01.01. 判定字符是否唯一.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/面试题 01.05. 一次编辑.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1115,13 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. 最长回文子串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1239. 串联字符串的最大长度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1146,9 +1141,19 @@
     <entry file="file://$PROJECT_DIR$/815. 公交路线.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. 最长回文子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCP 07. 传递信息.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
