@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1833. 雪糕的最大数量.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/401. 二进制手表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指 Offer 38. 字符串的排列.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,9 +56,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LCP 07. 传递信息.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1833. 雪糕的最大数量.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,6 +126,7 @@
       <find>fib</find>
       <find>计算</find>
       <find>).count</find>
+      <find>背包</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试题 01.03. URL化.py" />
         <option value="$PROJECT_DIR$/面试题 01.04. 回文排列.py" />
         <option value="$PROJECT_DIR$/面试题 01.05. 一次编辑.py" />
         <option value="$PROJECT_DIR$/90. 子集 II.py" />
@@ -180,6 +185,7 @@
         <option value="$PROJECT_DIR$/815. 公交路线.py" />
         <option value="$PROJECT_DIR$/5. 最长回文子串.py" />
         <option value="$PROJECT_DIR$/LCP 07. 传递信息.py" />
+        <option value="$PROJECT_DIR$/1833. 雪糕的最大数量.py" />
       </list>
     </option>
   </component>
@@ -372,7 +378,7 @@
       <workItem from="1623121536982" duration="22208000" />
       <workItem from="1624008094448" duration="11588000" />
       <workItem from="1624435656357" duration="6639000" />
-      <workItem from="1624841152539" duration="3199000" />
+      <workItem from="1624841152539" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -689,11 +695,32 @@
       <option name="project" value="LOCAL" />
       <updated>1624852774768</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="LCP 07">
+      <created>1625106703421</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1625106703421</updated>
+    </task>
+    <task id="LOCAL-00047" summary="LCP 07">
+      <created>1625106723844</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1625106723844</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Merge branch 'master' of https://gitee.com/xuanlia/leetcode_py&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1625106779346</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1625106779346</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131705000" />
+    <option name="totallyTimeSpent" value="133310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
@@ -709,7 +736,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3609923" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3609923" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.4311377" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -767,8 +794,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="692、1035" />
-    <MESSAGE value="664" />
     <MESSAGE value="1190" />
     <MESSAGE value="461" />
     <MESSAGE value="477" />
@@ -792,7 +817,9 @@
     <MESSAGE value="752" />
     <MESSAGE value="815" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="LCP 07" />
+    <MESSAGE value="Merge branch 'master' of https://gitee.com/xuanlia/leetcode_py&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://gitee.com/xuanlia/leetcode_py&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,13 +853,6 @@
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/面试题 01.05. 一次编辑.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/74. 搜索二维矩阵.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1153,7 +1173,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LCP 07. 传递信息.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1833. 雪糕的最大数量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
