@@ -67,3 +67,30 @@ class Solution:
 
 s = Solution()
 s.run()
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution2:
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        r = ListNode()
+        head = r
+        while l1 and l2:
+            # 取出来两个链表中较小的值，放在新的链表里
+            if l1.val <= l2.val:
+                node = ListNode(l1.val)
+                l1 = l1.next
+            else:
+                node = ListNode(l2.val)
+                l2 = l2.next
+            head.next = node
+            head = head.next
+        # 剩下的值接在新链表里
+        if l1:
+            head.next = l1
+        if l2:
+            head.next = l2
+        return r.next
