@@ -35,19 +35,5 @@ class Solution(object):
             r.append(tmp)
         return r
 
-    def run(self):
-        root = TreeNode(3)
-        t1 = TreeNode(9)
-        t2 = TreeNode(20)
-        t3 = TreeNode(15)
-        t4 = TreeNode(7)
-        root.left = t1
-        root.right = t2
-        t2.left = t3
-        t2.right = t4
-        r = self.zigzagLevelOrder(root)
-        print(r)
 
 
-s = Solution()
-s.run()
