@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/218. 天际线问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1818. 绝对差值和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1846. 减小和重新排列数组后的最大元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指 Offer 53 - I. 在排序数组中查找数字 I.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13. 罗马数字转整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/13. 罗马数字转整数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190. 颠倒二进制位.py" beforeDir="false" afterPath="$PROJECT_DIR$/190. 颠倒二进制位.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,42 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/384. 打乱数组.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/155.最小栈.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/412.Fizz Buzz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/204.计数质数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/326.3的幂.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +68,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/218. 天际线问题.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1818. 绝对差值和.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指 Offer 53 - I. 在排序数组中查找数字 I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1846. 减小和重新排列数组后的最大元素.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -144,10 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？.py" />
-        <option value="$PROJECT_DIR$/523. 连续的子数组和.py" />
-        <option value="$PROJECT_DIR$/525. 连续数组.py" />
-        <option value="$PROJECT_DIR$/160. 相交链表.py" />
         <option value="$PROJECT_DIR$/494. 目标和.py" />
         <option value="$PROJECT_DIR$/1049. 最后一块石头的重量 II.py" />
         <option value="$PROJECT_DIR$/879. 盈利计划.py" />
@@ -195,6 +192,10 @@
         <option value="$PROJECT_DIR$/190. 颠倒二进制位.py" />
         <option value="$PROJECT_DIR$/13. 罗马数字转整数.py" />
         <option value="$PROJECT_DIR$/218. 天际线问题.py" />
+        <option value="$PROJECT_DIR$/1818. 绝对差值和.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 53 - I. 在排序数组中查找数字 I.py" />
+        <option value="$PROJECT_DIR$/1846. 减小和重新排列数组后的最大元素.py" />
+        <option value="$PROJECT_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置.py" />
       </list>
     </option>
   </component>
@@ -249,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.726. 原子的数量">
+  <component name="RunManager" selected="Python.1818. 绝对差值和">
     <configuration name="剑指 Offer 15. 二进制中1的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,6 +295,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1818. 绝对差值和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1818. 绝对差值和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="224. 基本计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,28 +331,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/224. 基本计算器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="525. 连续数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/525. 连续数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1818. 绝对差值和" />
         <item itemvalue="Python.726. 原子的数量" />
         <item itemvalue="Python.224. 基本计算器" />
         <item itemvalue="Python.剑指 Offer 15. 二进制中1的个数" />
         <item itemvalue="Python.160. 相交链表" />
-        <item itemvalue="Python.525. 连续数组" />
       </list>
     </recent_temporary>
   </component>
@@ -388,14 +389,7 @@
       <workItem from="1624008094448" duration="11588000" />
       <workItem from="1624435656357" duration="6639000" />
       <workItem from="1624841152539" duration="25361000" />
-      <workItem from="1625624587137" duration="22618000" />
-    </task>
-    <task id="LOCAL-00010" summary="554">
-      <created>1619933698338</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1619933698338</updated>
+      <workItem from="1625624587137" duration="27009000" />
     </task>
     <task id="LOCAL-00011" summary="740">
       <created>1620197708843</created>
@@ -733,11 +727,18 @@
       <option name="project" value="LOCAL" />
       <updated>1626080235551</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="13、190、218">
+      <created>1626161668506</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1626161668506</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176485000" />
+    <option name="totallyTimeSpent" value="180876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
@@ -748,8 +749,8 @@
       <window_info id="Favorites" order="2" sideWeight="0.50075185" side_tool="true" weight="0.30778491" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35928145" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37639007" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -811,7 +812,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1049" />
     <MESSAGE value="879" />
     <MESSAGE value="279" />
     <MESSAGE value="852" />
@@ -836,7 +836,8 @@
     <MESSAGE value="102、121、198、53、70" />
     <MESSAGE value="930、面试题17.10" />
     <MESSAGE value="155、204、274、275、326、384、412" />
-    <option name="LAST_COMMIT_MESSAGE" value="155、204、274、275、326、384、412" />
+    <MESSAGE value="13、190、218" />
+    <option name="LAST_COMMIT_MESSAGE" value="13、190、218" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -874,37 +875,10 @@
     <SUITE FILE_PATH="coverage/leetcode_py$726__.coverage" NAME="726. 原子的数量 Coverage Results" MODIFIED="1625467783538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$523__.coverage" NAME="523. 连续的子数组和 Coverage Results" MODIFIED="1622598535544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$demo.coverage" NAME="demo Coverage Results" MODIFIED="1616738957578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_py$1818__.coverage" NAME="1818. 绝对差值和 Coverage Results" MODIFIED="1626248479503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/879. 盈利计划.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/518. 零钱兑换 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/279. 完全平方数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/852. 山脉数组的峰顶索引.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/483. 最小好进制.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -1219,6 +1193,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1818. 绝对差值和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 53 - I. 在排序数组中查找数字 I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1846. 减小和重新排列数组后的最大元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
