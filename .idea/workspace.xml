@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1893. 检查是否区域内所有整数都被覆盖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 10- II. 青蛙跳台阶问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1713. 得到子序列的最少操作次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1743. 从相邻元素对还原数组.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,93 +20,12 @@
     <favorites_list name="leetcode_py" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/138. 复制带随机指针的链表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1893. 检查是否区域内所有整数都被覆盖.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/509.1. 斐波那契数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/70. 爬楼梯.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 10- II. 青蛙跳台阶问题.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.py">
+        <entry file="file://$PROJECT_DIR$/1713. 得到子序列的最少操作次数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/33. 搜索旋转排序数组.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -142,6 +57,7 @@
       <find>+ 7</find>
       <find>numWa</find>
       <find>climbStairs</find>
+      <find>defaultdict</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指 Offer 15. 二进制中1的个数.py" />
-        <option value="$PROJECT_DIR$/149. 直线上最多的点数.py" />
         <option value="$PROJECT_DIR$/752. 打开转盘锁.py" />
         <option value="$PROJECT_DIR$/815. 公交路线.py" />
         <option value="$PROJECT_DIR$/5. 最长回文子串.py" />
@@ -201,6 +115,8 @@
         <option value="$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py" />
         <option value="$PROJECT_DIR$/剑指 Offer 10- II. 青蛙跳台阶问题.py" />
         <option value="$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.py" />
+        <option value="$PROJECT_DIR$/1743. 从相邻元素对还原数组.py" />
+        <option value="$PROJECT_DIR$/1713. 得到子序列的最少操作次数.py" />
       </list>
     </option>
   </component>
@@ -215,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,6 +142,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1818. 绝对差值和">
+  <component name="RunManager" selected="Python.1743. 从相邻元素对还原数组">
     <configuration name="剑指 Offer 15. 二进制中1的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="160. 相交链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1743. 从相邻元素对还原数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +207,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/160. 相交链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1743. 从相邻元素对还原数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1743. 从相邻元素对还原数组" />
         <item itemvalue="Python.1818. 绝对差值和" />
         <item itemvalue="Python.726. 原子的数量" />
         <item itemvalue="Python.224. 基本计算器" />
         <item itemvalue="Python.剑指 Offer 15. 二进制中1的个数" />
-        <item itemvalue="Python.160. 相交链表" />
       </list>
     </recent_temporary>
   </component>
@@ -397,14 +313,9 @@
       <workItem from="1625624587137" duration="29029000" />
       <workItem from="1626658861880" duration="508000" />
       <workItem from="1626741515552" duration="3095000" />
-      <workItem from="1626917247761" duration="8057000" />
-    </task>
-    <task id="LOCAL-00015" summary="1442">
-      <created>1621329415662</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1621329415662</updated>
+      <workItem from="1626917247761" duration="9129000" />
+      <workItem from="1627269660817" duration="3378000" />
+      <workItem from="1627286972081" duration="401000" />
     </task>
     <task id="LOCAL-00016" summary="1738">
       <created>1621416666156</created>
@@ -742,28 +653,35 @@
       <option name="project" value="LOCAL" />
       <updated>1626935864961</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="1893、offer03、offer04、offer09、offer10、offer10">
+      <created>1627032465354</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1627032465354</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194556000" />
+    <option name="totallyTimeSpent" value="199407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.35032102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.25361156" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50075185" side_tool="true" weight="0.30778491" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37639007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31993157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3609923" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4311377" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4302823" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -820,7 +738,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="483" />
     <MESSAGE value="401、1239" />
     <MESSAGE value="Offer38" />
     <MESSAGE value="149、Offer15" />
@@ -845,7 +762,8 @@
     <MESSAGE value="1838、offer42、10.02" />
     <MESSAGE value="1877" />
     <MESSAGE value="138" />
-    <option name="LAST_COMMIT_MESSAGE" value="138" />
+    <MESSAGE value="1893、offer03、offer04、offer09、offer10、offer10" />
+    <option name="LAST_COMMIT_MESSAGE" value="1893、offer03、offer04、offer09、offer10、offer10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,20 +801,11 @@
     <SUITE FILE_PATH="coverage/leetcode_py$726__.coverage" NAME="726. 原子的数量 Coverage Results" MODIFIED="1625467783538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$523__.coverage" NAME="523. 连续的子数组和 Coverage Results" MODIFIED="1622598535544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$demo.coverage" NAME="demo Coverage Results" MODIFIED="1616738957578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_py$1743__.coverage" NAME="1743. 从相邻元素对还原数组 Coverage Results" MODIFIED="1627271456978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$1818__.coverage" NAME="1818. 绝对差值和 Coverage Results" MODIFIED="1626248479503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/24. 两两交换链表中的节点.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21. 合并两个有序链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/206. 反转链表.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1168,14 +1077,14 @@
     <entry file="file://$PROJECT_DIR$/1893. 检查是否区域内所有整数都被覆盖.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/33. 搜索旋转排序数组.py">
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1186,31 +1095,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/70. 爬楼梯.py">
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py">
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -1221,10 +1123,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.py">
+    <entry file="file://$PROJECT_DIR$/70. 爬楼梯.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1743. 从相邻元素对还原数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33. 搜索旋转排序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1713. 得到子序列的最少操作次数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
