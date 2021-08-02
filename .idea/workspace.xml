@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="" />
+    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1337. 矩阵中战斗力最弱的 K 行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/171. Excel 表列序号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/743. 网络延迟时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/987. 二叉树的垂序遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +50,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1104. 二叉树寻路.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/171. Excel 表列序号.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1418. 点菜展示表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/743. 网络延迟时间.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1337. 矩阵中战斗力最弱的 K 行.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/987. 二叉树的垂序遍历.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -77,6 +132,7 @@
       <find>numWa</find>
       <find>climbStairs</find>
       <find>defaultdict</find>
+      <find>lambda</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,10 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5. 最长回文子串.py" />
-        <option value="$PROJECT_DIR$/LCP 07. 传递信息.py" />
-        <option value="$PROJECT_DIR$/1833. 雪糕的最大数量.py" />
-        <option value="$PROJECT_DIR$/38. 外观数列.py" />
         <option value="$PROJECT_DIR$/14.最长公共前缀.py" />
         <option value="$PROJECT_DIR$/19.删除链表的倒数第N个节点.py" />
         <option value="$PROJECT_DIR$/224. 基本计算器.py" />
@@ -136,6 +188,10 @@
         <option value="$PROJECT_DIR$/1713. 得到子序列的最少操作次数.py" />
         <option value="$PROJECT_DIR$/863. 二叉树中所有距离为 K 的结点.py" />
         <option value="$PROJECT_DIR$/1104. 二叉树寻路.py" />
+        <option value="$PROJECT_DIR$/171. Excel 表列序号.py" />
+        <option value="$PROJECT_DIR$/743. 网络延迟时间.py" />
+        <option value="$PROJECT_DIR$/1337. 矩阵中战斗力最弱的 K 行.py" />
+        <option value="$PROJECT_DIR$/987. 二叉树的垂序遍历.py" />
       </list>
     </option>
   </component>
@@ -334,14 +390,7 @@
       <workItem from="1626741515552" duration="3095000" />
       <workItem from="1626917247761" duration="9129000" />
       <workItem from="1627269660817" duration="3378000" />
-      <workItem from="1627286972081" duration="5768000" />
-    </task>
-    <task id="LOCAL-00018" summary="664">
-      <created>1621846672861</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1621846672861</updated>
+      <workItem from="1627286972081" duration="11083000" />
     </task>
     <task id="LOCAL-00019" summary="1190">
       <created>1621993536268</created>
@@ -679,11 +728,18 @@
       <option name="project" value="LOCAL" />
       <updated>1627439991198</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="1104">
+      <created>1627542260092</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1627542260092</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204774000" />
+    <option name="totallyTimeSpent" value="210089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1338" extended-state="0" />
@@ -757,7 +813,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="149、Offer15" />
     <MESSAGE value="149" />
     <MESSAGE value="752" />
     <MESSAGE value="815" />
@@ -782,7 +837,8 @@
     <MESSAGE value="1893、offer03、offer04、offer09、offer10、offer10" />
     <MESSAGE value="1713、1743" />
     <MESSAGE value="863" />
-    <option name="LAST_COMMIT_MESSAGE" value="863" />
+    <MESSAGE value="1104" />
+    <option name="LAST_COMMIT_MESSAGE" value="1104" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -825,41 +881,6 @@
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1418. 点菜展示表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/98.验证二叉搜索树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/101.对称二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/224. 基本计算器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1711. 大餐计数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/102. 二叉树的层序遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -1168,7 +1189,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1104. 二叉树寻路.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171. Excel 表列序号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1418. 点菜展示表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/743. 网络延迟时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1337. 矩阵中战斗力最弱的 K 行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/987. 二叉树的垂序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
