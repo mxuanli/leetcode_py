@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="345、552">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/443. 压缩字符串.py" />
+    <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="443">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/789. 逃脱阻碍者.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="516. 最长回文子序列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/516. 最长回文子序列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="446. 等差数列划分 II - 子序列.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/446. 等差数列划分 II - 子序列.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,18 +87,28 @@
       <file leaf-file-name="552. 学生出勤记录 II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/552. 学生出勤记录 II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
+            <state relative-caret-position="648">
               <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="443. 压缩字符串.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="443. 压缩字符串.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/443. 压缩字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="540">
               <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="789. 逃脱阻碍者.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/789. 逃脱阻碍者.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/198. 打家劫舍.py" />
         <option value="$PROJECT_DIR$/53. 最大子序和.py" />
         <option value="$PROJECT_DIR$/121.买卖股票的最佳时机.py" />
         <option value="$PROJECT_DIR$/70. 爬楼梯.py" />
@@ -215,6 +214,7 @@
         <option value="$PROJECT_DIR$/345. 反转字符串中的元音字母.py" />
         <option value="$PROJECT_DIR$/552. 学生出勤记录 II.py" />
         <option value="$PROJECT_DIR$/443. 压缩字符串.py" />
+        <option value="$PROJECT_DIR$/789. 逃脱阻碍者.py" />
       </list>
     </option>
   </component>
@@ -604,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629373973328</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="443">
+      <created>1629553373842</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1629553373842</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -614,7 +621,7 @@
     <frame x="-9" y="-9" width="1938" height="1038" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40772533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4136266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -624,7 +631,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4304783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44576877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44576877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -668,7 +675,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="82" />
     <MESSAGE value="10330" />
     <MESSAGE value="781" />
     <MESSAGE value="264" />
@@ -693,7 +699,8 @@
     <MESSAGE value="526、576" />
     <MESSAGE value="551" />
     <MESSAGE value="345、552" />
-    <option name="LAST_COMMIT_MESSAGE" value="345、552" />
+    <MESSAGE value="443" />
+    <option name="LAST_COMMIT_MESSAGE" value="443" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -743,13 +750,6 @@
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/283. 移动零.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/509. 斐波那契数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1024,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +1094,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/552. 学生出勤记录 II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
+        <state relative-caret-position="648">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
@@ -1103,8 +1102,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/443. 压缩字符串.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="540">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/789. 逃脱阻碍者.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
