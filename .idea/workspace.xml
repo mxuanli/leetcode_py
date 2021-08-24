@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ce6cdb-a84a-497a-9ad7-2cc1e3965988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20. 有效的括号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/787. K 站中转内最便宜的航班.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/576. 出界的路径数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/526. 优美的排列.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,7 +72,16 @@
         <entry file="file://$PROJECT_DIR$/789. 逃脱阻碍者.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/787. K 站中转内最便宜的航班.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -90,16 +90,16 @@
         <entry file="file://$PROJECT_DIR$/1646. 获取生成数组中的最大值.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20. 有效的括号.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -145,6 +145,7 @@
       <find>deque</find>
       <find>([</find>
       <find>d</find>
+      <find>lam</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/70. 爬楼梯.py" />
         <option value="$PROJECT_DIR$/930. 和相同的二元子数组.py" />
         <option value="$PROJECT_DIR$/面试题 17.10. 主要元素.py" />
         <option value="$PROJECT_DIR$/274. H 指数.py" />
@@ -204,14 +204,15 @@
         <option value="$PROJECT_DIR$/789. 逃脱阻碍者.py" />
         <option value="$PROJECT_DIR$/1646. 获取生成数组中的最大值.py" />
         <option value="$PROJECT_DIR$/20. 有效的括号.py" />
+        <option value="$PROJECT_DIR$/787. K 站中转内最便宜的航班.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="23" />
-    <option name="width" value="2418" />
-    <option name="height" value="1320" />
+    <option name="x" value="111" />
+    <option name="y" value="26" />
+    <option name="width" value="2449" />
+    <option name="height" value="1335" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -259,29 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1646. 获取生成数组中的最大值">
-    <configuration name="1583. 统计不开心的朋友" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1583. 统计不开心的朋友.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.787. K 站中转内最便宜的航班">
     <configuration name="1646. 获取生成数组中的最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,20 +349,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="787. K 站中转内最便宜的航班" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/787. K 站中转内最便宜的航班.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1583. 统计不开心的朋友" />
       <item itemvalue="Python.576. 出界的路径数" />
       <item itemvalue="Python.345. 反转字符串中的元音字母" />
       <item itemvalue="Python.443. 压缩字符串" />
       <item itemvalue="Python.1646. 获取生成数组中的最大值" />
+      <item itemvalue="Python.787. K 站中转内最便宜的航班" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.787. K 站中转内最便宜的航班" />
         <item itemvalue="Python.1646. 获取生成数组中的最大值" />
         <item itemvalue="Python.443. 压缩字符串" />
         <item itemvalue="Python.345. 反转字符串中的元音字母" />
         <item itemvalue="Python.576. 出界的路径数" />
-        <item itemvalue="Python.1583. 统计不开心的朋友" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +399,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616573887340</updated>
       <workItem from="1616573895231" duration="21097000" />
-      <workItem from="1629680656696" duration="3694000" />
+      <workItem from="1629680656696" duration="8355000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <created>1616574180033</created>
@@ -610,25 +611,32 @@
       <option name="project" value="LOCAL" />
       <updated>1629681009201</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="20">
+      <created>1629700869249</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1629700869249</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208468000" />
+    <option name="totallyTimeSpent" value="213129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1350" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25561798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25561798" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32853514" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44538528" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32853514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35478407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -688,7 +696,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="781" />
     <MESSAGE value="264" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="220" />
@@ -713,7 +720,8 @@
     <MESSAGE value="345、552" />
     <MESSAGE value="443" />
     <MESSAGE value="疫情" />
-    <option name="LAST_COMMIT_MESSAGE" value="疫情" />
+    <MESSAGE value="20" />
+    <option name="LAST_COMMIT_MESSAGE" value="20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,17 +766,11 @@
     <SUITE FILE_PATH="coverage/leetcode_py$523__.coverage" NAME="523. 连续的子数组和 Coverage Results" MODIFIED="1622598535544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$demo.coverage" NAME="demo Coverage Results" MODIFIED="1616738957578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$1743__.coverage" NAME="1743. 从相邻元素对还原数组 Coverage Results" MODIFIED="1627271456978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_py$787__K_.coverage" NAME="787. K 站中转内最便宜的航班 Coverage Results" MODIFIED="1629788957419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$1818__.coverage" NAME="1818. 绝对差值和 Coverage Results" MODIFIED="1626248479503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_py$82___II.coverage" NAME="82. 删除排序链表中的重复元素 II Coverage Results" MODIFIED="1616637031640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/82. 删除排序链表中的重复元素 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190. 颠倒二进制位.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1075,24 +1077,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/789. 逃脱阻碍者.py">
+    <entry file="file://$PROJECT_DIR$/1646. 获取生成数组中的最大值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1646. 获取生成数组中的最大值.py">
+    <entry file="file://$PROJECT_DIR$/20. 有效的括号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/789. 逃脱阻碍者.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20. 有效的括号.py">
+    <entry file="file://$PROJECT_DIR$/787. K 站中转内最便宜的航班.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
